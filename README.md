@@ -40,7 +40,7 @@ It contains link to my all 45 Web Development Projects
 37. filter-gallery - https://raj03kumar.github.io/filter-gallery/
 38. filter-search - https://raj03kumar.github.io/filter-search/
 39. dropdown-menu - https://raj03kumar.github.io/dropdown-menu/
-40. FAQ-dropdown - 
+40. FAQ-dropdown - https://raj03kumar.github.io/FAQ-dropdown/
 41. mega-navbar - 
 42. my-gallery -
 43. scroll-counter - 
