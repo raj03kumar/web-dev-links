@@ -45,7 +45,7 @@ It contains link to my all 45 Web Development Projects
 42. my-gallery - https://raj03kumar.github.io/my-gallery/
 43. temp-converter - https://raj03kumar.github.io/temp-converter/
 44. rk-profilecard - https://raj03kumar.github.io/profile-card/
-45. scroll-counter - 
+45. scroll-counter - https://raj03kumar.github.io/scroll-counter/
 46. tooltips - https://raj03kumar.github.io/tooltips/
 47. signup-page - 
 48. particlejs - https://raj03kumar.github.io/particlejs/
