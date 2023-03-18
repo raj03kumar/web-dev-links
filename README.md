@@ -49,5 +49,5 @@ It contains link to my all 45 Web Development Projects
 46. tooltips - https://raj03kumar.github.io/tooltips/
 47. signup-page - https://raj03kumar.github.io/signup-page/
 48. particlejs - https://raj03kumar.github.io/particlejs/
-49. sidebar - 
+49. sidebar - https://raj03kumar.github.io/sidebar/
 50. timeline - https://raj03kumar.github.io/timeline/
