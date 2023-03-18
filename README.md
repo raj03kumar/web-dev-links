@@ -1,5 +1,5 @@
 # web-dev-links
-It contains link to my all 45 Web Development Projects
+It contains link to my all 50+ Web Development Projects
 ---
 1. Eco hack hackathon - https://raj03kumar.github.io/Eco-hack-hackathon
 2. Magic Notes - https://raj03kumar.github.io/Magic-Notes
